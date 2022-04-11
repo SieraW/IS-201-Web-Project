@@ -1,0 +1,57 @@
+.body{
+    background-color: white;
+}
+
+a {
+    color: rgb(4, 142, 177);
+    text-decoration: none;
+    padding: 10px;}
+
+a:hover{
+    text-decoration: underline;}
+
+ul{
+    height: 75px;
+    background-color: lightgray;
+    line-height: 75px;
+    text-align: right;
+}
+
+.tab1{
+    width: 500px;
+    vertical-align: auto;
+}
+.tab2{
+    width: 500px;
+    position: absolute;
+}
+.tab3{
+    width: 500px;
+    position: absolute;
+}
+.tab4{
+    width: 500px;
+    position: absolute;
+}
+
+.tableau{
+    text-align: right;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #999999
+}
+.link{
+    text-align: center;
+}
+
+.footer{
+    height: 50px;
+    background-color: lightgray;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    font-size: 12px;
+    color: rgb(4, 142, 177);
+    text-align: center;
+    line-height: 50px;}
+
